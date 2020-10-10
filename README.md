@@ -1,9 +1,16 @@
 # Vehicle_Num_Plate_Detection
-I have created the model for number plate detection and generated the inference graph for the model
+This model helps in number plate detection and the inference graph is generated
+
+## Requirements
+> Python 3
+>
+
+## Steps
+1. Clone the repository
+2. Run the eval.py program 
+3. If you want to change the image then do the below steps
+  i) Put the image inside the program directory.
+  ii) Enter the image filename in **Line no 17 pf eval program** 
 
 
 
-Need to run run the eval.py program for number plate detection
-if you want to change the input image 
-give image name in the line number 17 of eval program 
-the image must be inside the directory
