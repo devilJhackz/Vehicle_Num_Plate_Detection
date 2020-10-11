@@ -1,9 +1,13 @@
 # Vehicle_Num_Plate_Detection
-This model helps in number plate detection and the inference graph is generated
+This model helps in number plate detection and the inference graph is generated as the result
 
 ## Requirements
-> Python 3
->
+- Python 3.6
+- Keras
+- Tensor flow
+- pytesseract
+- opencv
+- numpy
 
 ## Steps
 1. Clone the repository
